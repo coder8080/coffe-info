@@ -6,12 +6,12 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1029</width>
+    <width>1167</width>
     <height>551</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Эспрессо</string>
+   <string>Капучино</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QTableWidget" name="table">
@@ -19,22 +19,22 @@
      <rect>
       <x>10</x>
       <y>10</y>
-      <width>1011</width>
+      <width>1151</width>
       <height>481</height>
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="load_button">
+   <widget class="QPushButton" name="add_button">
     <property name="geometry">
      <rect>
       <x>10</x>
       <y>500</y>
-      <width>351</width>
+      <width>241</width>
       <height>42</height>
      </rect>
     </property>
     <property name="text">
-     <string>Загрузить / обновить данные</string>
+     <string>Добавить запись</string>
     </property>
    </widget>
   </widget>
